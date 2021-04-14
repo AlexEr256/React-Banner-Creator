@@ -13,4 +13,17 @@ Application can be divided on 3 main parts:
 + Canvas
 + Menu
 
+Components with same names can be found in file structure. Besides that, Menu has Menu Items:
++ Map
++ Text
++ Image
++ Rectangle
++ Circle
++ Triangle
++ Line
+
+Each one can be found in MenuItems folder.
+
+redux folder present business logical layer for application.
+
 
