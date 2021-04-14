@@ -24,6 +24,6 @@ Components with same names can be found in file structure. Besides that, Menu ha
 
 Each one can be found in MenuItems folder.
 
-Redux folder present business logical layer for application.
+Redux folder presents business logical layer for the application.
 
 
