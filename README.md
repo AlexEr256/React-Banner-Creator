@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Intro
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Small application for Banner creating with opportunity to save it as image or export as JSON\SVG.
+
+# Launch
+
+Use 2 commands: npm install and npm run start
+
+# Structure of the project
+
 
