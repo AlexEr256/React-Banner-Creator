@@ -8,4 +8,9 @@ Use 2 commands: npm install and npm run start
 
 ## Structure of the project
 
+Application can be divided on 3 main parts:
++ Header
++ Canvas
++ Menu
+
 
