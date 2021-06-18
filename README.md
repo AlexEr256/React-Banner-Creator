@@ -26,4 +26,10 @@ Each one can be found in MenuItems folder.
 
 Redux folder presents business logical layer for the application.
 
+## Screenshots
+
+![главная] ()
+
+![Баннер] ()
+
 
