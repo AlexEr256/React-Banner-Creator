@@ -28,8 +28,8 @@ Redux folder presents business logical layer for the application.
 
 ## Screenshots
 
-![главная] (https://github.com/DeadOrAlive256/React-Banner-Creator/blob/master/screenshots/Main.png)
+![главная](https://github.com/DeadOrAlive256/React-Banner-Creator/blob/master/screenshots/Main.png)
 
-![Баннер] (https://github.com/DeadOrAlive256/React-Banner-Creator/blob/master/screenshots/Banner.png)
+![Баннер](https://github.com/DeadOrAlive256/React-Banner-Creator/blob/master/screenshots/Banner.png)
 
 
